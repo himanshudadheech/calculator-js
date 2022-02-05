@@ -1,0 +1,76 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: darkseagreen;
+    padding: 20px;
+    color: white;
+
+}
+
+.formStyle{
+background-color: rgb(73, 72, 72);
+text-align: center;
+width: 300px;
+border: 3px solid black;
+margin: auto;
+border-radius: 25px;
+height: 580px;
+padding: 20px;
+}
+
+#calc{
+    width: 250px;
+    background-color: grey;
+    color: white;
+    border: 3px solid black;
+    border-radius: 14px;
+    padding: 12px;
+    margin: auto;
+}
+input {
+
+width: 25px;
+opacity: 80%;
+background-color: rgb(219, 219, 219);
+color: rgb(0, 0, 0);
+font-size: 15px;
+border: 1px solid rgb(54, 53, 53);
+border-radius: 10px;
+padding: 25px;
+margin: 3px;
+}
+
+
+
+
+.icon{
+    background-color: aqua;
+    padding-right: 38px;
+}
+.type{
+    width: 250px;  background-color:red ;
+}
+
+#foot{
+    position: fixed;
+            padding: 10px 30px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 40px;
+            background: #000000;
+            color: white;
+            text-align: center;
+
+}
+#foot a{
+    color: rgb(255, 36, 36);
+    text-decoration: none;
+}
+#foot a:hover{
+    color: red;
+    text-decoration: none;
+}
